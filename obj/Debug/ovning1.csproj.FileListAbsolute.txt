@@ -1,0 +1,14 @@
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\bin\Debug\ovning1.exe.config
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\bin\Debug\ovning1.exe
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\bin\Debug\ovning1.pdb
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1.csprojResolveAssemblyReference.cache
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\MainWindow.g.cs
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\App.g.cs
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1_MarkupCompile.cache
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1_MarkupCompile.lref
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\MainWindow.baml
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1.g.resources
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1.Properties.Resources.resources
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1.csproj.GenerateResource.Cache
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1.exe
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\uppgift1\uppgift1\obj\Debug\ovning1.pdb
